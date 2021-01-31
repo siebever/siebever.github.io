@@ -8,9 +8,6 @@ function init() {
    topFunction()
 }
 
-
-
-
 //Get the button:
 mybutton = document.getElementById("to-top-button");
 
