@@ -1,3 +1,16 @@
+
+
+window.addEventListener('DOMContentLoaded', init);
+
+
+function init() {
+   scrollFunction();
+   topFunction()
+}
+
+
+
+
 //Get the button:
 mybutton = document.getElementById("to-top-button");
 
