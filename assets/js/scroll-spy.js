@@ -1,3 +1,4 @@
+"use strict";
 <!-- Scroll Spy -->
 
 // Cache selectors
