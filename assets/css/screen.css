@@ -1,5 +1,4 @@
 
-
 .top-nav {
     position: fixed;
 }
@@ -9,10 +8,16 @@
     right: 10px;
 }
 
-
 #to-top-button {
     position: fixed;
     bottom: 30px;
     right: 10px;
     outline: none;
+}
+
+.me-img {
+    border-radius: 50%;
+    height: 300px;
+    width: auto;
+    margin-bottom: 20px;
 }
